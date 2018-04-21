@@ -1,0 +1,3 @@
+$.post("/member/au\
+th",{username:username,password:password,ajax:!0,paid_content_info:content_info\
+},
